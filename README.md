@@ -15,7 +15,7 @@
 4. _Kebab_ создан используя Builder паттерн
 5. _ComponentsFactory_ использует Abstract Factory 
 
-Для того, чтобы показать как это работает, я создал несколько диаграмм
+Для того, чтобы показать как это работает, я создал несколько диаграмм. Вот к примеру, 
 Factory  Pattern: 
 ![alt text](Diagrams/diag1.png "Logo Title Text 1")
 
