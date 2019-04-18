@@ -19,7 +19,7 @@
 Factory  Pattern: 
 ![alt text](Diagrams/diag1.png "Logo Title Text 1")
 
-Для того, чтобы комбинировать abstract factory и abstract factory method, factory method был использован для того, чтобы имплиментировать методы product в abstract factory |To combine abstract factory and factory method, according to a book: factory methods was used to implement product methods in abstract factory (CreateDough(), CreateCheese(),...)
+Для того, чтобы комбинировать abstract factory и abstract factory method, factory method был использован для того, чтобы имплиментировать методы в abstract factory (CreateDough(), CreateMeat();...)
 ![alt text](Diagrams/diag2.png "Logo Title Text 1")
 
 Кебаб создаётся используя Builder Pattern:  
