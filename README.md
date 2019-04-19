@@ -4,6 +4,7 @@
 ## Использованные порождающие шаблоны
 1. _Abstract Factory_
 2. _Factory Method_
+3. _Singleton_
 4. _Prototype_
 5. _Builder_
 
